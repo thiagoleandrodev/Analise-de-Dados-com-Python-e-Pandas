@@ -9,21 +9,14 @@ Quais padrões existem nos dados?
 Existem tendências ou comportamentos relevantes?
 Há oportunidades de melhoria com base nos dados?
 
-📂 Dataset
-Fonte: (adicione aqui — Kaggle, empresa, API, etc.)
-Descrição: breve explicação do que os dados representam
-Exemplo:
-Dataset contendo informações sobre vendas, clientes e faturamento ao longo do tempo.
+## 📂 Dataset
+Descrição: Dataset contendo informações sobre vendas, clientes e faturamento ao longo do tempo.
 
-🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 Python 3
 Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
 
-🔎 Etapas da Análise
+## 🔎 Etapas da Análise
 1. 📥 Coleta e Importação
 Leitura do dataset
 Verificação inicial dos dados
@@ -42,21 +35,17 @@ Comparações entre variáveis
 Principais descobertas da análise
 Recomendações baseadas nos dados
 
-📈 Principais Insights
-(Preencha com seus resultados — MUITO importante pro portfólio)
-Exemplo:
+## 📈 Principais Insights
 📌 A maior parte das vendas ocorre no período X
-📌 Clientes do tipo Y geram mais receita
-📌 Existe correlação entre A e B
 
-▶️ Como Executar o Projeto
-git clone https://github.com/seu-usuario/seu-projeto.git
+## ▶️ Como Executar o Projeto
+git clone:
 cd seu-projeto
 pip install -r requirements.txt
 jupyter notebook
 
 
-📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 📁 analise-dados/
 │
 ├── 📄 analise.ipynb
@@ -65,14 +54,14 @@ jupyter notebook
 ├── 📄 README.md
 
 
-📸 Visualizações
+## 📸 Visualizações
 (Adicione prints aqui — isso chama MUITA atenção)
 Exemplo:
 Gráfico de distribuição
 Gráfico de correlação
 Dashboard simples
 
-🚀 Aprendizados
+## 🚀 Aprendizados
 Durante este projeto, foram desenvolvidas habilidades em:
 Manipulação de dados com Pandas
 Análise exploratória (EDA)
@@ -80,16 +69,16 @@ Visualização de dados
 Pensamento analítico
 Comunicação de resultados
 
-🔮 Próximos Passos
+## 🔮 Próximos Passos
 Criar dashboard interativo (Power BI ou Streamlit)
 Aplicar modelos de Machine Learning
 Automatizar o pipeline de análise
 
-👨‍💻 Autor
-Seu Nome
+## 👨‍💻 Autor
+Thiago Leandro Dos Santos
 LinkedIn: https://www.linkedin.com/in/thiago-dev26/
 GitHub: https://github.com/thiagoleandrodev
 
-📄 Licença
+## 📄 Licença
 Este projeto está sob a licença MIT.
 
