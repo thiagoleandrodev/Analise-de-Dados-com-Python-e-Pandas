@@ -3,7 +3,7 @@
 Este projeto tem como objetivo analisar um conjunto de dados para gerar insights relevantes e apoiar a tomada de decisão baseada em dados.
 A análise foi realizada utilizando Python e bibliotecas voltadas para manipulação e visualização de dados.
 
-🧠 Problema de Negócio
+## 🧠 Problema de Negócio
 A proposta deste projeto é responder perguntas como:
 Quais padrões existem nos dados?
 Existem tendências ou comportamentos relevantes?
